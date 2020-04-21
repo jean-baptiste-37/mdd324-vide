@@ -15,3 +15,4 @@ public class QuoteController {
         return sortie.getQuote() + " " + sortie.getAuthor();
     }
 }
+}
